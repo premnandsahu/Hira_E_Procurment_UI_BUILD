@@ -1,0 +1,1 @@
+import{r as e,j as x}from"./index-CcfvtG5A.js";const p=e.createContext(void 0),u=({children:r})=>{const[a,s]=e.useState(null),[l,n]=e.useState(!1),c=(t,o)=>{s(t),n(!!o)},v=(t,o)=>{s(t),n(!!o)};return x.jsx(p.Provider,{value:{onPendingApproverIdFound:c,approverDetailId:a,isNextLevelSelectionAllowed:l,setApproverState:v},children:r})},d=()=>e.useContext(p);export{u as A,d as u};
